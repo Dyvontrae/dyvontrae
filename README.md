@@ -1,16 +1,33 @@
-## Hi there 👋
+# Dyvontrae Johnson
+## Community Tech Leader & Social Impact Developer
 
-<!--
-**Dyvontrae/dyvontrae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Building technology that empowers communities in San Antonio 🏘️
 
-Here are some ideas to get you started:
+### What I Do
+- Develop solutions for housing justice and community organizing
+- Create tech tools for parent engagement and education advocacy
+- Build applications that bridge community needs with technology
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Current Projects
+- Tenant Rights Tracking System (Rust)
+- Community Organizing Dashboard
+- Education Advocacy Platform
+
+### Technical Skills
+- Languages: Ruby, Rust (learning)
+- Tools: PowerShell, Web Development
+- Systems: Windows/Mac OS Administration
+- Certifications: CompTIA (IT Fundamentals, Network+, Security+, A+)
+
+### Notable Work
+- Led development of community organizing platforms
+- Created first tokusatsu film festival tech infrastructure
+- Developed parent engagement tools for education advocacy
+
+### Connect
+- [Portfolio](https://dyvontrae.github.io)
+- [LinkedIn](/in/dyvontrae-johnson/)
+- [Email](mailto:DYVONTRAE@GMAIL.COM)
+
+---
+*"Building resilient communities through technology and social change"*
